@@ -2,7 +2,7 @@
 
 This is a dedicated repository for discussing ideas for the Psych-DS data standard.  Use this repository for discussing possible tools, new extensions to the schema, etc. When conversations on the [mailing list](https://groups.google.com/g/psych-data-standards) get large/unwieldy, we can also bring them over here for further development.
 
-As a general rule, we'll continue using the google group for coordinating work, planning events, etc. We can use this repository for less time-sensitive discussions on specific topics, to avoid flooding inboxes.  
+As a general rule, we'll continue using the mailing list for coordinating work, planning events, etc. We can use this repository for less time-sensitive discussions on specific topics, to avoid flooding inboxes.  
 
 To read the discussions, click on the Issues tab at the top of this page. 
 
