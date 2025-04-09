@@ -1,4 +1,4 @@
-# psych-ds-ideas
+# psychds-ideas
 
 This is a dedicated repository for discussing ideas for the Psych-DS data standard.  Use this repository for discussing possible tools, new extensions to the schema, etc. When conversations on the [mailing list](https://groups.google.com/g/psych-data-standards) get large/unwieldy, we can also bring them over here for further development.
 
